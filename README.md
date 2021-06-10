@@ -1,6 +1,7 @@
 # i_see
 Change Linkedin Logo in Chrome Browser, using "Chrome extension"
 
+
 ![Papermerge](./media/icon/icon128.png)
 
 **Restore the old logo** ![Papermerge](./media/img/linkedin_logo2.png)
